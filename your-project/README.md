@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Message Encryption & Decryption
+*Mafalda Fragoso*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Bootcamp, Amsterdam & 21/02/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,29 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Chellenge: Cryptography with Python: communication between two users via coded messages
+Method used: Caesar Cipher Cryptography 
+ 
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet to be encrypted or decrypted  
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Research about the game
+2. Design of the game structure (pseudocode)
+3. Code game
+    Creation of a function that asks if users wants to decrypt or encrypt
+    Creation of a function that returns the message (clear text or encrypted)
+    Creation of a function that applies decryption or encryption methods 
+    Print resulting message
+4. Error handling
+5. Test game
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
+Project planning on the trello board
+In my repository you will find the Python file with the coding and the presentation in power point. Within the presentation, you will find the trello baord picture
 
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+  
